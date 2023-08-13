@@ -1,0 +1,6 @@
+framework module Pods_HeroTask {
+  umbrella header "Pods-HeroTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

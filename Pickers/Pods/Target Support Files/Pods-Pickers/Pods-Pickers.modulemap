@@ -1,0 +1,6 @@
+framework module Pods_Pickers {
+  umbrella header "Pods-Pickers-umbrella.h"
+
+  export *
+  module * { export * }
+}

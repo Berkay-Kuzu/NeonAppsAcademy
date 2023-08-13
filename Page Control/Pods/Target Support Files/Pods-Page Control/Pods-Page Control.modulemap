@@ -1,0 +1,6 @@
+framework module Pods_Page_Control {
+  umbrella header "Pods-Page Control-umbrella.h"
+
+  export *
+  module * { export * }
+}

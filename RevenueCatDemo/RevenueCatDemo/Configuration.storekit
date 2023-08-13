@@ -1,0 +1,68 @@
+{
+  "identifier" : "BFB24063",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "6450351448",
+      "localizations" : [
+        {
+          "description" : "Unlock all premium features",
+          "displayName" : "Monthly Premium",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "SwiftyStoreKit.com.neonapps.education.SwiftyStoreKitDemo.premium",
+      "referenceName" : "RevenueCatDemo",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6450351522",
+    "_developerTeamID" : "2G8QN9SRVA",
+    "_lastSynchronizedDate" : 708597402.53330302
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21352550",
+      "localizations" : [
+
+      ],
+      "name" : "RevenueCatDemo",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "19.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6450352307",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock all premium features",
+              "displayName" : "Monthly Premium",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "SwiftyStoreKit.com.neonapps.education.SwiftyStoreKitDemo.monthlypremium",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "MonthlyPremium",
+          "subscriptionGroupID" : "21352550",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

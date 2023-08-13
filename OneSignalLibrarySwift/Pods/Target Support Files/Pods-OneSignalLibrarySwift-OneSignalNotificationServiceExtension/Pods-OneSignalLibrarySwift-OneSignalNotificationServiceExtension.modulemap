@@ -1,0 +1,6 @@
+framework module Pods_OneSignalLibrarySwift_OneSignalNotificationServiceExtension {
+  umbrella header "Pods-OneSignalLibrarySwift-OneSignalNotificationServiceExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

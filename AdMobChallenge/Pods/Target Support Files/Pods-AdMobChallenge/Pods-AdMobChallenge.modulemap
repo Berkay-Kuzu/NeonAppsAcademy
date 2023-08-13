@@ -1,0 +1,6 @@
+framework module Pods_AdMobChallenge {
+  umbrella header "Pods-AdMobChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}

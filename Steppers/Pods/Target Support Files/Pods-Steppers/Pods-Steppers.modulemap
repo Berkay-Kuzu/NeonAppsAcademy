@@ -1,0 +1,6 @@
+framework module Pods_Steppers {
+  umbrella header "Pods-Steppers-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,24 @@
+PODS:
+  - Purchases (3.14.3):
+    - PurchasesCoreSwift (= 3.14.3)
+  - PurchasesCoreSwift (3.14.3)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Purchases
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Purchases
+    - PurchasesCoreSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Purchases: ba5a570357564da5d5447281190b5ac5ab9b8f3e
+  PurchasesCoreSwift: 78a2001158d7fed44f9796ea50b89152ba727520
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: e9f6102355fe57aa5ee43cb80c247f14850f4c9e
+
+COCOAPODS: 1.11.3
